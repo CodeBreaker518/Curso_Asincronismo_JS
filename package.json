@@ -1,0 +1,23 @@
+{
+  "name": "curso_asincronismo_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBreaker518/Curso_Asincronismo_JS.git"
+  },
+  "keywords": [
+    "javascript",
+    "async"
+  ],
+  "author": "Diego Perez Perez diegoperezperez518@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS/issues"
+  },
+  "homepage": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS#readme"
+}
