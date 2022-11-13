@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS/issues"
   },
-  "homepage": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS#readme"
+  "homepage": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
