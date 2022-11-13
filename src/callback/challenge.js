@@ -34,6 +34,7 @@ fetchData(`${API}/products`, (error1, data1)=> {
       console.log(data1[0])
       console.log(data2.title)
       console.log(data3.name)
+      // WARNING: CALLBACK HELL
     })
   })
 })
