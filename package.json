@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/CodeBreaker518/Curso_Asincronismo_JS#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
